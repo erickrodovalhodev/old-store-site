@@ -3,3 +3,4 @@
 <textarea name="msg"></textarea>
 <button>Send</button>
 </form>
+// rationale: escape at output, not at input
