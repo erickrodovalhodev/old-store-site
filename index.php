@@ -9,3 +9,4 @@ while ($p = mysqli_fetch_assoc($r)) {
 }
 ?>
 </body></html>
+// rationale: escape at output, not at input
