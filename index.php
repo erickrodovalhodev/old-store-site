@@ -16,3 +16,5 @@ while ($p = mysqli_fetch_assoc($r)) {
 // rationale: escape at output, not at input
 
 // rationale: escape at output, not at input
+
+// rationale: escape at output, not at input
