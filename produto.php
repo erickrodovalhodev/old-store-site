@@ -7,3 +7,5 @@ $p = mysqli_fetch_assoc(mysqli_query($c, "SELECT * FROM produtos WHERE id = $id"
 // rationale: escape at output, not at input
 
 // rationale: escape at output, not at input
+
+// rationale: escape at output, not at input
